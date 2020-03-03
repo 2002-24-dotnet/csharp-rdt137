@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Palindrome.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Palindrome.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palindrome.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Palindrome.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Palindrome.Domain/Palindrome.Domain.csproj",
+      "msbuildProject": "../Palindrome.Domain/Palindrome.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Palindrome.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/desolate/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/Palindrome.Client.csproj",
+      "projectName": "Palindrome.Client",
+      "projectPath": "/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/Palindrome.Client.csproj",
+      "packagesPath": "/home/desolate/.nuget/packages/",
+      "outputPath": "/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/desolate/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Domain/Palindrome.Domain.csproj": {
+              "projectPath": "/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Domain/Palindrome.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

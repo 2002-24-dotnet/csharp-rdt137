@@ -1,0 +1,14 @@
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Client
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Client.deps.json
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Client.runtimeconfig.json
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Client.runtimeconfig.dev.json
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Client.dll
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Client.pdb
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Domain.dll
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Domain.pdb
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/obj/Debug/netcoreapp3.1/Palindrome.Client.csprojAssemblyReference.cache
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/obj/Debug/netcoreapp3.1/Palindrome.Client.AssemblyInfoInputs.cache
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/obj/Debug/netcoreapp3.1/Palindrome.Client.AssemblyInfo.cs
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/obj/Debug/netcoreapp3.1/Palindrome.Client.csproj.CopyComplete
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/obj/Debug/netcoreapp3.1/Palindrome.Client.dll
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Client/obj/Debug/netcoreapp3.1/Palindrome.Client.pdb

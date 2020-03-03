@@ -1,0 +1,8 @@
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csprojAssemblyReference.cache
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfoInputs.cache
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfo.cs
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.deps.json
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.dll
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.pdb
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.dll
+/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.pdb
