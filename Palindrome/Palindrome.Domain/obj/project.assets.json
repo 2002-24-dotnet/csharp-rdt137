@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Domain/Palindrome.Domain.csproj",
+      "projectUniqueName": "/home/desolate/revature_challenges/1_csharp/csharp-rdt137/Palindrome/Palindrome.Domain/Palindrome.Domain.csproj",
       "projectName": "Palindrome.Domain",
-      "projectPath": "/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Domain/Palindrome.Domain.csproj",
+      "projectPath": "/home/desolate/revature_challenges/1_csharp/csharp-rdt137/Palindrome/Palindrome.Domain/Palindrome.Domain.csproj",
       "packagesPath": "/home/desolate/.nuget/packages/",
-      "outputPath": "/home/desolate/revature_challenges/1_csharp/Palindrome/Palindrome.Domain/obj/",
+      "outputPath": "/home/desolate/revature_challenges/1_csharp/csharp-rdt137/Palindrome/Palindrome.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/desolate/.nuget/NuGet/NuGet.Config"

@@ -9,8 +9,6 @@ namespace Palindrome.Client
         {
             Reverse rv = new Reverse();
             string str = rv.GetString();
-            str = str.Replace(" ", String.Empty);
-            str = str.ToLower();
             string sReverse = rv.ReverseString(str);
             if (str == sReverse)
             {
