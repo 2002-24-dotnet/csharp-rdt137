@@ -1,6 +1,6 @@
 using System;
 using Xunit;
-//using Palindrome.Domain;
+using Palindrome.Domain;
 
 namespace Palindrome.Testing
 {
@@ -9,7 +9,12 @@ namespace Palindrome.Testing
     [Fact]
     public void Test_Reverse()
     {
-      string expected = sReverse;
+      string s = "Was it a car or a cat I saw";
+      s = s.Replace(" ", String.Empty);
+      s = s.ToLower();
+
+      Reverse rv = new Reverse();
+      string expected = rv.ReverseString(s);
 
       string actual = s;
 
